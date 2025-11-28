@@ -18,3 +18,20 @@ https://sore-tomato-wft1xquh2w-b1aqoa88si.edgeone.dev/2009-2010.png
 
 Fiscal Year 2010-2011
 https://zesty-lavender-w7berd4qbl-cg75xbguqr.edgeone.dev/2010-2011.png
+
+## Data Source
+*   The dataset was sourced from (https://docs.google.com/spreadsheets/d/1jQgb9I4cnJmuY1cdsbW236G_3U6sinmK/edit?usp=drive_link&ouid=116535122817158873881&rtpof=true&sd=true).
+
+## Tools Used
+*   **Microsoft Power BI:** For data modeling, visualization, and dashboard creation.
+*   **Power Query:** For data transformation and cleaning.
+*   **DAX:** For creating calculated columns and measures.
+
+## How to Use
+1.  Download the `.pbix` file from this repository.
+2.  Open it using Microsoft Power BI Desktop.
+3.  Interact with the filters and slicers to explore the data.
+4.  Use the page navigator to switch between the two fiscal years.
+
+## License
+This project is for portfolio/educational purposes.
